@@ -1,0 +1,73 @@
+Creational (6) -
+
+Simple Factory:
+
+Abstract Factory:
+
+Factory Method:
+
+Prototype:
+
+Builder:
+It is a creational pattern that allows an object to be built step-by-step. It allows objects of similar nature to include parts that aren't included elsewhere.
+
+Singleton:
+
+
+Structural (7) -
+
+Adapter:
+It connect 2 otherwise incompatible interfaces to be able to interact with one another.
+
+Bridge:
+
+Composite:
+
+Decorator:
+
+Facade:
+Is a pattern that creates a simpler interface for an object/collection of objects for easier use.
+
+Flyweight:
+It allows for less memory consumption through shared usages of memory intensive objects such as a forest sharing the basis of a tree while each having independent parts to it.
+
+Object Pool:
+An object pool will take a collection of objects that are rapidly created and destroyed and instead will reuse them to reduce the cost of new instances.
+
+Behavioral (13) -
+
+Null Object:
+It is when an object is intentionally set as null in order to use its methods such as in a tree when you need to traverse but don't have 1 single starting point.
+
+Strategy:
+
+State:
+
+Template:
+It acts as a skeleton for how something should work but allows for parts to be overridden changing how it works/produces.
+
+Observer:
+Is a pattern where an object can subscribe and listen for an event to occur and respond once it does.
+
+Iterator:
+It is used to abstract the way a collection is traversed.
+
+Interpreter:
+Translates from one understanding to another through the use of a dictionary/lookup table.
+
+Command:
+
+Chain of Responsibility:
+Is a collection of ordered handlers which will take an issue and either handle it itself, or pass it along to the next handler in line.
+
+Memento:
+This is used to store an object in a place and time through keeping track of any data that makes it unique. This allows for an object to be restored once changed.
+
+Visitor:
+
+Proxy:
+A proxy is a placeholder that is used in place of what you want to communicate with.
+
+Other -
+
+MVC (Model View Controller):
